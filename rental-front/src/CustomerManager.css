@@ -1,0 +1,25 @@
+.customer-manager {
+    padding: 20px;
+  }
+  
+  .customer-manager table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .customer-manager th, .customer-manager td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .customer-manager button {
+    margin-right: 5px;
+  }
+
+  table {
+    color: black;
+  }
+
+  h1,h2,h3{
+        color: black;
+    }

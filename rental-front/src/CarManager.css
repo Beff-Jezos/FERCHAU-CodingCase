@@ -1,0 +1,18 @@
+.car-manager {
+    padding: 20px;
+  }
+  
+  .car-manager table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .car-manager th, .car-manager td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .car-manager button {
+    margin-right: 5px;
+  }
+  
